@@ -1,6 +1,6 @@
 # 📚 RAG Research Assistant
 
-A production-grade **Multi-Source Agentic RAG** pipeline built for resume showcase.  
+A production-grade **Multi-Source Agentic RAG** with LangGraph, Google Gemini, FastAPI and Streamlit 
 Demonstrates: LangChain · LangGraph · Qdrant · RAGAS · FastAPI · Streamlit · Docker
 
 ---
