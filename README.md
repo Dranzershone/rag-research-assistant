@@ -173,7 +173,7 @@ Edit `.env`:
 ```bash
 # Google Gemini (default — free tier available)
 LLM_PROVIDER=google
-LLM_MODEL=gemini-1.5-flash        # fast + free tier
+LLM_MODEL=gemini-2.5-flash        # fast + free tier
 # LLM_MODEL=gemini-1.5-pro        # better quality
 
 # OpenAI (optional)
