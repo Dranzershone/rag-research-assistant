@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Retrieval-Augmented Generation (RAG)?",
+    "ground_truth": "RAG is a technique that combines information retrieval with language model generation to produce grounded, factual answers based on retrieved documents."
+  },
+  {
+    "question": "What are the main components of a RAG pipeline?",
+    "ground_truth": "A RAG pipeline typically consists of document ingestion, chunking, embedding generation, vector storage, retrieval, and answer generation components."
+  },
+  {
+    "question": "How does hybrid search improve RAG?",
+    "ground_truth": "Hybrid search combines dense vector search with sparse BM25 retrieval, improving recall for both semantic and keyword-based queries."
+  }
+]
